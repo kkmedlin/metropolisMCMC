@@ -2,6 +2,8 @@ Dai, W., Li, D., Peng, Y., Tang, D., Wang, H. (2022). Deep learning approach for
 
 Dablain D, Krawczyk B, Chawla NV. (2022). DeepSMOTE: Fusing Deep Learning and SMOTE for Imbalanced Data. IEEE Transactions on Neural Networks Learning Systems. 
 
+Fan, J., Han, F., Liu, H. (2014). Challenges of Big Data analysis. In: National Science Review, vol. 1, issue 2 (293-314).
+
 Fan, W., Liu, Z., Tang, J, Wang, S, Wang, W. (2020). Global-and-Local Aware Data Generation for the Class Imbalance Problem. In: N. Chawla and C. Demeniconi (eds) Proceedings of the 2020 SIAM International Conference on Data Mining (307-31).
 
 Geyer, C.J. (2011). Introduction to Markov Chain Monte Carlo. In: Brooks, S., Gelman, A., Jones, G., Meng, X. (eds), Handbook of Markov Chain Monte Carlo (chapter 5). Chapman & Hall, CRC Press. 
